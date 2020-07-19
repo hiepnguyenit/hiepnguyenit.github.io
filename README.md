@@ -1,9 +1,9 @@
 # THỰC TẬP CHUYÊN MÔN NĂM HỌC 2019-2020
-Họ tên: Nguyễn Văn Hiệp
-Mã sinh viên: 5851071024
-Họ tên: Lê Trường Huy
-Mã sinh viên: 5851071030
-Lớp: Công nghệ thông tin K58
+Họ tên: Nguyễn Văn Hiệp\\
+Mã sinh viên: 5851071024\\
+Họ tên: Lê Trường Huy\\
+Mã sinh viên: 5851071030\\
+Lớp: Công nghệ thông tin K58\\
 ## Đề tài: Web nghe nhạc trực tuyến
 ## Phần 1: Công nghệ sử dụng
 - PHP
