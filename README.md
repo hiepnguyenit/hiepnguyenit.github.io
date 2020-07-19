@@ -1,10 +1,10 @@
 # THỰC TẬP CHUYÊN MÔN NĂM HỌC 2019-2020
 Họ tên: Nguyễn Văn Hiệp  
 Mã sinh viên: 5851071024  
-Họ tên: Lê Trường Huy\\
-Mã sinh viên: 5851071030\\
-Lớp: Công nghệ thông tin K58\\
-## Đề tài: Web nghe nhạc trực tuyến
+Họ tên: Lê Trường Huy  
+Mã sinh viên: 5851071030  
+Lớp: Công nghệ thông tin K58  
+## Đề tài: Web nghe nhạc trực tuyến  
 ## Phần 1: Công nghệ sử dụng
 - PHP
 - Smarty
@@ -13,8 +13,8 @@ Lớp: Công nghệ thông tin K58\\
 - JS
 - CSS
 - ApacheConf
-- SQL
-## Phần 2: Các chức năng đã hoàn thành 
+- SQL  
+## Phần 2: Các chức năng đã hoàn thành
 1. Trang chủ hiển thị slide những album bài hát mới, bảng xếp hạng (top 10), album mới, bài hát mới, banner danh sách ca sĩ.
 > *các banner khác tính năng tương tự nên gắn link bên ngoài*
 2. Khi bật vào album nào đó thì nghe danh sách nhạc trong album đó, hiển thị ablum cùng thể loại.
@@ -28,12 +28,12 @@ Lớp: Công nghệ thông tin K58\\
 7. Trang cá nhân hiển thị bài hát, album của người đó, đổi mật khẩu, mã hóa mật khẩu (Salt).
 8. Tìm kiếm bài hát.
 9. Tính năng bổ sung: Bảng xếp hạng sử dụng Google Visualization API (hiển thị biểu đồ xếp hạng bài hát).
-10. Tính năng bổ sung: Đăng ký thành viên.
+10. Tính năng bổ sung: Đăng ký thành viên.  
 ## Phần 3: Các chức năng chưa hoàn thành
-1. Lượt bỏ tính năng duyệt bài hát
+1. Lượt bỏ tính năng duyệt bài hát  
 ## Hướng dẫn sử dụng
 - Đăng nhập với quyền admin:
-> Tên tài khoản: admins
+> Tên tài khoản: admins  
 > Mật khẩu: admin1234
 -
 
